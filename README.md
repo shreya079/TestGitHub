@@ -1,2 +1,2 @@
 # TestGitHub
-tutorial
+tutorial to learn how to use git
